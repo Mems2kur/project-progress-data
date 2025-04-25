@@ -1,4 +1,8 @@
 {
+  {
   "labels": ["January", "February", "March", "April", "May"],
-  "values": [10, 25, 45, 70]
+  "investments": [10000, 5000, 20000, 7000, 30000],
+  "returns": [12000, 9000, 25000, 10000, 35000]
+}
+
 }
